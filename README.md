@@ -1,2 +1,2 @@
 # Minimising-Late-Deliveries
-PREDICTIVE MODELLING FOR MINIMISING LATE DELIVERIES IN SUPPLY CHAIN
+Predictive Modelling for minimising late deliveries in supply chain
